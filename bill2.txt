@@ -1,0 +1,38 @@
+============================================================
+                     TECH GEAR RETAIL LTD                   
+                123 Innovation Way, Tech District           
+============================================================
+
+INVOICE TO:
+John Doe
+456 Cloud Street, Python City
+
+------------------------------------------------------------
+INVOICE DETAILS:
+Invoice Number : INV-2026-8891
+Invoice Date   : June 15, 2026
+Payment Terms  : Due on Receipt
+------------------------------------------------------------
+
+ITEMS PLACED IN ORDER:
+
+1. Wireless Ergonomic Mouse
+   Quantity: 2  |  Unit Price: $25.00  |  Total: $50.00
+
+2. Mechanical Gaming Keyboard
+   Quantity: 1  |  Unit Price: $85.00  |  Total: $85.00
+
+3. High-Speed HDMI Cable 6ft
+   Quantity: 3  |  Unit Price: $12.00  |  Total: $36.00
+
+------------------------------------------------------------
+SUMMARY:
+Subtotal:                                      $171.00
+Tax (0%):                                        $0.00
+------------------------------------------------------------
+TOTAL AMOUNT DUE:                              $171.00
+------------------------------------------------------------
+
+Thank you for your business!
+If you have any questions regarding this bill, contact support@techgear.local
+============================================================
